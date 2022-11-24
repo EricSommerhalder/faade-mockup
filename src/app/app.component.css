@@ -1,0 +1,12 @@
+.display-card {
+    width: 300px;
+    margin: 60px;
+    cursor: pointer;
+  }
+.container {
+    display: inline-block;
+}
+h1 {
+  text-align: center;
+  margin: 10px;
+}
